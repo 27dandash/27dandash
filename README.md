@@ -1,16 +1,12 @@
-<h2> Hi there, I'm ahmed mahmoud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h1 align="center">Hi 👋, I'm Abdel-Rahman Ayman Dandash 👑</h1>
+<h2 align="center">Flutter Developer 💎</h2>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004080&style=flat" alt="a-hemeda" height="40" width="240" />
+	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=800000&style=flat" alt="a-hemeda" height="40" width="160" />
+</p>
+<br>
 
-<!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
- -->
- 
-- Software Engineer
-- Mobile developer ( Flutter | Android )
-<hr>
-
-
-<!-- 👋💙 🤝 -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanFouad1&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
-
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 
 
