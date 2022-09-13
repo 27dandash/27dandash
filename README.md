@@ -6,11 +6,21 @@
 </p>
 <br>
 
-# 🤲🏼 [Azkar App](http://play.google.com/store/apps/details?id=com.hemeda.azkary)
+<h2> Samples from my projects </h2>
 
-# ✅ [To Do App](http://play.google.com/store/apps/details?id=com.hemeda.daily_tasks)
+### Al-Mahmoud
+A free Islamic application for everyone free of ads that contains many functions and software algorithms, the application was programmed using the Java language to be the first Islamic application that I publish on the store and it is available on the night mode also in a beautiful format.
+<p><a href="https://play.google.com/store/apps/details?id=com.almahmoudApp.al_mahmoudapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
 
-# 🧸 [Memory Game](http://play.google.com/store/apps/details?id=com.hemeda.memory_game)
+<hr>
+
+### الجمع بين الصحيحين
+تطبيق الجمع بين الصحيحين إصدار مركز حفاظ السنة يعرض نسخة رقمية لكتاب الجمع بين الصحيحين مع شرح مختصر له وبيان غريبه وقراءة صوتية مرتبة على الكتب والأبواب مع إمكانية البحث يعين الحافظ والزائر على الاستفادة منه بيسر وسهولة
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.hoffadhApp&fbclid=IwAR1iWtXcfG6eQlpIP4z5zM-0VuCe643H3nHiIdhKLcWBCPleQtBJs5xg6JY" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1621893047?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+	
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
@@ -27,7 +37,7 @@
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a> </p>
 
 <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="center" height="300"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="center" height="300"/> -->
 
 
 
