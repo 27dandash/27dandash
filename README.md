@@ -11,9 +11,7 @@
 
 <h2> Contact with me on </h2>
 
-<!-- <h3>Where to find me</h3>
-<p><a href="https://github.com/
-AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+
 
 - personal email : 27dandash@gmail.com
 
@@ -34,8 +32,7 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 
 <hr>
 	
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
-
+<h1 align="center">
 <h2> Samples from my projects </h2>
 
 ### Demel
