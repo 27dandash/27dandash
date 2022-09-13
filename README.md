@@ -27,8 +27,8 @@ Demel for coffee and fresh baked goods Enjoy the best freshly baked bread and co
 
 ## 📩 Connect with me
 <p align="left">
-<a href="linkedin.com/in/ dandash119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" width="60" /></a>
-<a href="https://codepen.io/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a-hemeda" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/dandash119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" width="60" /></a>
+<!-- <a href="https://codepen.io/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a-hemeda" height="50" width="60" /></a> -->
 <a href="https://web.facebook.com/dandash119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.hemeda11" height="50" width="60" /></a>
 <a href="https://www.instagram.com/dandash.119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.hemeda11" height="50" width="60" /></a>
 </p>
