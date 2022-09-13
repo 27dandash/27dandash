@@ -5,6 +5,7 @@
 	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=800000&style=flat" alt="a-hemeda" height="40" width="160" />
 </p>
 <br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 # 🤲🏼 [Azkar App](http://play.google.com/store/apps/details?id=com.hemeda.azkary)
 
