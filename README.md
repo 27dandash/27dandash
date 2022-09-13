@@ -31,6 +31,30 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 ## 🛠 Languages and Tools
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a> </p>
 
+	
+
+<h2> Samples from my projects </h2>
+
+### Demel
+Demel for coffee and fresh baked goods Enjoy the best freshly baked bread and coffee with distinctive flavors at Damel, and choose what you want from a large list of the best orders for food and drinks, order now for your blade immediately and enjoy the wonderful taste with Damel.
+<p><a href="https://play.google.com/store/apps/details?id=com.demel.resturant" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+
+<hr>
+
+### الجمع بين الصحيحين
+تطبيق الجمع بين الصحيحين إصدار مركز حفاظ السنة يعرض نسخة رقمية لكتاب الجمع بين الصحيحين مع شرح مختصر له وبيان غريبه وقراءة صوتية مرتبة على الكتب والأبواب مع إمكانية البحث يعين الحافظ والزائر على الاستفادة منه بيسر وسهولة
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.hoffadhApp&fbclid=IwAR1iWtXcfG6eQlpIP4z5zM-0VuCe643H3nHiIdhKLcWBCPleQtBJs5xg6JY" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1621893047?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+	
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+
+
+
+
+
 <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 
 
