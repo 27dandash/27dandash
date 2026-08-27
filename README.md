@@ -1,15 +1,3 @@
-README.md:49: trailing whitespace.
-+- **FamilySufrah** — Arabic-first food marketplace and delivery platform across customer, provider, and delegate apps.  
-README.md:52: trailing whitespace.
-+- **Rahoul** — logistics and transportation platform with customer and service-provider experiences.  
-README.md:55: trailing whitespace.
-+- **Basiet Educational** — learning platform for courses, lessons, exams, certificates, and digital study materials.  
-README.md:58: trailing whitespace.
-+- **Mawahib AlSaudi** — talent discovery and academy platform with independently branded talent and academy apps.  
-README.md:61: trailing whitespace.
-+- **Saudi MedBridge** — bilingual classified marketplace for publishing listings, seller communication, packages, and payments.  
-README.md:64: trailing whitespace.
-+- **Servena** — sports platform for field booking, matches, training sessions, payments, chat, and rankings.  
 <div align="center">
 
 # Abdelrahman Ayman Dandash
@@ -30,7 +18,7 @@ I build scalable, production-ready mobile experiences with Flutter and Dart — 
 
 ## About me
 
-- Flutter Developer at [AAIT], based in Cairo, Egypt.
+- Flutter Developer at AAIT, based in Cairo, Egypt.
 - 3+ years of hands-on experience building and maintaining cross-platform mobile applications.
 - Shipping products across the App Store, Google Play, and Huawei AppGallery.
 
@@ -58,22 +46,22 @@ I build scalable, production-ready mobile experiences with Flutter and Dart — 
 
 ## Selected production work
 
-- **FamilySufrah** — Arabic-first food marketplace and delivery platform across customer, provider, and delegate apps.  
+- **FamilySufrah** — Arabic-first food marketplace and delivery platform across customer, provider, and delegate apps.<br>
   `Customer` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.sofra.client) · `Provider` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.sofra.provider) · `Delegate` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.sofra.delivery) / [App Store](https://apps.apple.com/us/app/familysufrah-delegate/id6787687904)
 
-- **Rahoul** — logistics and transportation platform with customer and service-provider experiences.  
+- **Rahoul** — logistics and transportation platform with customer and service-provider experiences.<br>
   `Customer` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.rahoul.user) / [App Store](https://apps.apple.com/sa/app/%D8%B1%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%84/id6766248186) · `Provider` [Google Play](https://play.google.com/store/apps/details?id=com.cs.flutter.rahoul.provider)
 
-- **Basiet Educational** — learning platform for courses, lessons, exams, certificates, and digital study materials.  
+- **Basiet Educational** — learning platform for courses, lessons, exams, certificates, and digital study materials.<br>
   [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.basiet) · [App Store](https://apps.apple.com/eg/app/%D8%A8%D8%B3%D9%8A%D8%B7-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/id6761849250)
 
-- **Mawahib AlSaudi** — talent discovery and academy platform with independently branded talent and academy apps.  
+- **Mawahib AlSaudi** — talent discovery and academy platform with independently branded talent and academy apps.<br>
   `Talent` [App Store](https://apps.apple.com/eg/app/%D9%85%D9%88%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87-%D9%85%D9%88%D9%87%D8%A8%D9%87/id6776690404) · `Academy` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.MawahibAlSaudi.provider) / [App Store](https://apps.apple.com/eg/app/%D9%85%D9%88%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87-%D8%A7%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D9%87/id6776688772)
 
-- **Saudi MedBridge** — bilingual classified marketplace for publishing listings, seller communication, packages, and payments.  
+- **Saudi MedBridge** — bilingual classified marketplace for publishing listings, seller communication, packages, and payments.<br>
   [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.saudimedbridge)
 
-- **Servena** — sports platform for field booking, matches, training sessions, payments, chat, and rankings.  
+- **Servena** — sports platform for field booking, matches, training sessions, payments, chat, and rankings.<br>
   [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.servenaPrpject) · [App Store](https://apps.apple.com/us/app/servena-%D8%B3%D9%8A%D8%B1%D9%81%D9%86%D8%A7/id6766030728)
 
 ### Earlier shipped products
