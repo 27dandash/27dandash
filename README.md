@@ -30,7 +30,7 @@ I build scalable, production-ready mobile experiences with Flutter and Dart — 
 
 ## About me
 
-- Flutter Developer at [AAIT](https://github.com/ZenAi-AAIT), based in Cairo, Egypt.
+- Flutter Developer at [AAIT], based in Cairo, Egypt.
 - 3+ years of hands-on experience building and maintaining cross-platform mobile applications.
 - Shipping products across the App Store, Google Play, and Huawei AppGallery.
 
