@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Abdelrahman Ayman Dandash — Flutter Developer</title>
+  <desc id="desc">A premium mobile product engineering banner with three application phone previews.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B4F78"/>
+      <stop offset="1" stop-color="#43358B"/>
+    </linearGradient>
+    <linearGradient id="screen1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0EA5E9"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <linearGradient id="screen2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FB923C"/><stop offset="1" stop-color="#DC2626"/></linearGradient>
+    <linearGradient id="screen3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34D399"/><stop offset="1" stop-color="#0F766E"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.055"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#020617" flood-opacity="0.42"/></filter>
+  </defs>
+  <rect width="1200" height="380" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="28" fill="url(#grid)"/>
+  <circle cx="1040" cy="80" r="180" fill="#22D3EE" opacity="0.08"/>
+  <circle cx="940" cy="350" r="210" fill="#A78BFA" opacity="0.10"/>
+  <text x="64" y="70" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="3">FLUTTER · DART · PRODUCTION MOBILE</text>
+  <text x="64" y="135" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="48" font-weight="600">Abdelrahman Ayman Dandash</text>
+  <text x="64" y="181" fill="#DBEAFE" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25">Flutter Developer · Mobile Product Engineer</text>
+  <text x="64" y="230" fill="#BFDBFE" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19">Scalable mobile products — from architecture and state to integrations and store delivery.</text>
+  <g transform="translate(64 274)">
+    <rect width="112" height="38" rx="19" fill="#FFFFFF" opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.20"/>
+    <text x="56" y="25" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16">12 Products</text>
+    <rect x="126" width="142" height="38" rx="19" fill="#FFFFFF" opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.20"/>
+    <text x="197" y="25" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16">21 Store Listings</text>
+    <rect x="282" width="132" height="38" rx="19" fill="#FFFFFF" opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.20"/>
+    <text x="348" y="25" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16">Android + iOS</text>
+  </g>
+  <g filter="url(#shadow)">
+    <g transform="translate(825 82) rotate(-8 70 130)">
+      <rect width="140" height="260" rx="30" fill="#F8FAFC" stroke="#FFFFFF" stroke-width="3"/>
+      <rect x="8" y="8" width="124" height="244" rx="23" fill="url(#screen1)"/>
+      <rect x="50" y="16" width="40" height="6" rx="3" fill="#FFFFFF" opacity="0.55"/>
+      <circle cx="70" cy="92" r="31" fill="#FFFFFF" opacity="0.18"/>
+      <text x="70" y="100" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="700">R</text>
+      <text x="70" y="151" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="600">Rahoul</text>
+      <text x="70" y="178" text-anchor="middle" fill="#DBEAFE" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">LOGISTICS</text>
+    </g>
+    <g transform="translate(929 58)">
+      <rect width="150" height="278" rx="32" fill="#F8FAFC" stroke="#FFFFFF" stroke-width="3"/>
+      <rect x="8" y="8" width="134" height="262" rx="25" fill="url(#screen2)"/>
+      <rect x="53" y="16" width="44" height="6" rx="3" fill="#FFFFFF" opacity="0.55"/>
+      <circle cx="75" cy="101" r="34" fill="#FFFFFF" opacity="0.18"/>
+      <text x="75" y="109" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="700">FS</text>
+      <text x="75" y="165" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="600">FamilySufrah</text>
+      <text x="75" y="193" text-anchor="middle" fill="#FFEDD5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">MARKETPLACE</text>
+    </g>
+    <g transform="translate(1045 82) rotate(8 70 130)">
+      <rect width="140" height="260" rx="30" fill="#F8FAFC" stroke="#FFFFFF" stroke-width="3"/>
+      <rect x="8" y="8" width="124" height="244" rx="23" fill="url(#screen3)"/>
+      <rect x="50" y="16" width="40" height="6" rx="3" fill="#FFFFFF" opacity="0.55"/>
+      <circle cx="70" cy="92" r="31" fill="#FFFFFF" opacity="0.18"/>
+      <text x="70" y="100" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="700">S</text>
+      <text x="70" y="151" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="600">Servena</text>
+      <text x="70" y="178" text-anchor="middle" fill="#D1FAE5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">SPORTS</text>
+    </g>
+  </g>
+</svg>
