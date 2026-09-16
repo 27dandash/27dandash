@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dandash119/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/27dandash/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://wa.me/201221769543"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://www.instagram.com/dandash.119/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/27dandash"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="mailto:devabdodandash7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:27dandash@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## Engineering profile
@@ -75,6 +75,7 @@
 
 ## Featured repositories
 
+- [Flutter Base](https://github.com/27dandash/flutter_base) — reusable Flutter foundation with structured architecture, tooling, and project conventions.
 - [Movie Clean Architecture](https://github.com/27dandash/Movie-Clean-Architecture) — Clean Architecture, BLoC/Cubit, Dio, GetIt, and functional error handling.
 - [GoRide Customer](https://github.com/27dandash/GoRide_customer) and [GoRide Driver](https://github.com/27dandash/GoRide_driver) — paired ride-booking experiences with maps, Firebase, notifications, and live trip workflows.
 - [Agora Setup in Flutter](https://github.com/27dandash/Agora-Setup-in-flutter) — real-time video calling with Agora and BLoC.
@@ -84,8 +85,8 @@
 ---
 
 <p align="center">
-  <a href="mailto:devabdodandash7@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/dandash119/">LinkedIn</a> ·
+  <a href="mailto:27dandash@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/27dandash/">LinkedIn</a> ·
   <a href="https://wa.me/201221769543">WhatsApp</a> ·
   <a href="https://www.instagram.com/dandash.119/">Instagram</a> ·
   <a href="https://www.facebook.com/27dandash">Facebook</a>
