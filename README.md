@@ -37,6 +37,15 @@
   <img src="https://img.shields.io/badge/iOS-111827?style=flat-square&logo=apple&logoColor=white" alt="iOS">
 </p>
 
+## Featured repositories
+
+- [Flutter Base](https://github.com/27dandash/flutter_base) — reusable Flutter foundation with structured architecture, tooling, and project conventions.
+- [Movie Clean Architecture](https://github.com/27dandash/Movie-Clean-Architecture) — Clean Architecture, BLoC/Cubit, Dio, GetIt, and functional error handling.
+- [GoRide Customer](https://github.com/27dandash/GoRide_customer) and [GoRide Driver](https://github.com/27dandash/GoRide_driver) — paired ride-booking experiences with maps, Firebase, notifications, and live trip workflows.
+- [Agora Setup in Flutter](https://github.com/27dandash/Agora-Setup-in-flutter) — real-time video calling with Agora and BLoC.
+- [Local Notifications in Flutter](https://github.com/27dandash/Setup-Notification-in-flutter) — local and scheduled notifications with timezone and permission handling.
+- [Booking Hotel Algoriza](https://github.com/27dandash/Booking-hotel-Algoriza) — hotel-booking flows with BLoC, Dio, maps, and geolocation.
+
 ## Selected production work
 
 <p align="center">
@@ -72,15 +81,6 @@
 - [MediaCoThink](https://play.google.com/store/apps/details?id=com.aait.mediacothinkUser) — an education platform for courses, exams, lectures, and video calls.
 - [Watani](https://apps.apple.com/eg/app/%D9%88%D8%B7%D9%86%D9%8A-watani/id6756347265) — a digital platform supporting the aquaculture sector.
 - [Airtah](https://apps.apple.com/eg/app/%D8%A7%D8%B1%D8%AA%D8%AD/id6741735966) — an event-services marketplace for special occasions.
-
-## Featured repositories
-
-- [Flutter Base](https://github.com/27dandash/flutter_base) — reusable Flutter foundation with structured architecture, tooling, and project conventions.
-- [Movie Clean Architecture](https://github.com/27dandash/Movie-Clean-Architecture) — Clean Architecture, BLoC/Cubit, Dio, GetIt, and functional error handling.
-- [GoRide Customer](https://github.com/27dandash/GoRide_customer) and [GoRide Driver](https://github.com/27dandash/GoRide_driver) — paired ride-booking experiences with maps, Firebase, notifications, and live trip workflows.
-- [Agora Setup in Flutter](https://github.com/27dandash/Agora-Setup-in-flutter) — real-time video calling with Agora and BLoC.
-- [Local Notifications in Flutter](https://github.com/27dandash/Setup-Notification-in-flutter) — local and scheduled notifications with timezone and permission handling.
-- [Booking Hotel Algoriza](https://github.com/27dandash/Booking-hotel-Algoriza) — hotel-booking flows with BLoC, Dio, maps, and geolocation.
 
 ---
 
