@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
+  <a href="https://27dandash.github.io"><img src="https://img.shields.io/badge/View_Portfolio-Selected_Work_%26_Case_Studies-14532D?style=for-the-badge&logo=flutter&logoColor=white" alt="View Portfolio — selected production work and Flutter case studies"></a>
   <a href="https://www.linkedin.com/in/27dandash/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://wa.me/201221769543"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://www.instagram.com/27dandash"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/27dandash"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:27dandash@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+<p align="center"><strong>16 shipped products · 37 live store listings · Android + iOS</strong></p>
 
 ## Engineering profile
 
@@ -85,9 +85,10 @@
 ---
 
 <p align="center">
+  <a href="https://27dandash.github.io">Portfolio</a> ·
   <a href="mailto:27dandash@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/27dandash/">LinkedIn</a> ·
   <a href="https://wa.me/201221769543">WhatsApp</a> ·
   <a href="https://www.instagram.com/27dandash">Instagram</a> ·
-  <a href="https://www.facebook.com/27dandash">Facebook</a>
+  <a href="https://www.facebook.com/share/1KVtFV3MGq/">Facebook</a>
 </p>
