@@ -62,32 +62,32 @@
 <p align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/app-gallery-mobile.svg">
-    <img src="./assets/app-gallery.svg" width="100%" alt="Selected production releases: FamilySufrah, Rahoul, Basiet Educational, Mawahib AlSaudi, Saudi MedBridge, and Servena">
+    <img src="./assets/app-gallery.svg" width="100%" alt="Selected production releases: FamilySufrah, Mawahib AlSaudi, Servena, Basiet Educational, 2days, and ATHATHE">
   </picture>
 </p>
 
 - **FamilySufrah** — Arabic-first food marketplace and delivery platform across customer, provider, and delegate apps.<br>
   `Customer` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.sofra.client) · `Provider` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.sofra.provider) · `Delegate` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.sofra.delivery) / [App Store](https://apps.apple.com/us/app/familysufrah-delegate/id6787687904)
 
-- **Rahoul** — logistics and transportation platform with customer and service-provider experiences.<br>
-  `Customer` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.rahoul.user) / [App Store](https://apps.apple.com/sa/app/%D8%B1%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%84/id6766248186) · `Provider` [Google Play](https://play.google.com/store/apps/details?id=com.cs.flutter.rahoul.provider)
-
-- **Basiet Educational** — learning platform for courses, lessons, exams, certificates, and digital study materials.<br>
-  [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.basiet) · [App Store](https://apps.apple.com/eg/app/%D8%A8%D8%B3%D9%8A%D8%B7-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/id6761849250)
-
 - **Mawahib AlSaudi** — talent discovery and academy platform with independently branded talent and academy apps.<br>
   `Talent` [App Store](https://apps.apple.com/eg/app/%D9%85%D9%88%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87-%D9%85%D9%88%D9%87%D8%A8%D9%87/id6776690404) · `Academy` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.MawahibAlSaudi.provider) / [App Store](https://apps.apple.com/eg/app/%D9%85%D9%88%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87-%D8%A7%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D9%87/id6776688772)
-
-- **Saudi MedBridge** — bilingual classified marketplace for publishing listings, seller communication, packages, and payments.<br>
-  [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.saudimedbridge)
 
 - **Servena** — sports platform for field booking, matches, training sessions, payments, chat, and rankings.<br>
   [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.servenaPrpject) · [App Store](https://apps.apple.com/us/app/servena-%D8%B3%D9%8A%D8%B1%D9%81%D9%86%D8%A7/id6766030728)
 
+- **Basiet Educational** — learning platform for courses, lessons, exams, certificates, and digital study materials.<br>
+  [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.basiet) · [App Store](https://apps.apple.com/eg/app/%D8%A8%D8%B3%D9%8A%D8%B7-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/id6761849250)
+
+- **2days** — map-based peer-to-peer rental marketplace with listings, payments, and agreements.<br>
+  [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.twoDays) · [App Store](https://apps.apple.com/us/app/2days-%D9%8A%D9%88%D9%85%D9%8A%D9%86/id6740265856)
+
+- **ATHATHE** — technology-driven furniture marketplace for discovery, catalog, and purchase journeys.<br>
+  [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.athathy) · [App Store](https://apps.apple.com/us/app/%D8%A7%D8%AB%D8%A7%D8%AB%D9%8A/id6677037034)
+
 ### Earlier shipped products
 
-- [ATHATHE](https://apps.apple.com/us/app/%D8%A7%D8%AB%D8%A7%D8%AB%D9%8A/id6677037034) — a technology-driven furniture marketplace.
-- [2days](https://apps.apple.com/us/app/2days-%D9%8A%D9%88%D9%85%D9%8A%D9%86/id6740265856) — a map-based peer-to-peer rental marketplace.
+- [Rahoul](https://apps.apple.com/sa/app/%D8%B1%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%84/id6766248186) — a logistics and transportation platform with customer and service-provider experiences.
+- [Saudi MedBridge](https://play.google.com/store/apps/details?id=com.aait.flutter.saudimedbridge) — a bilingual classified marketplace for listings, communication, packages, and payments.
 - [Mumaken](https://apps.apple.com/us/app/mumaken-%D9%85%D9%85%D9%83%D9%86/id6504041543) — a mobility enablement platform for ride-hailing drivers.
 - [MediaCoThink](https://play.google.com/store/apps/details?id=com.aait.mediacothinkUser) — an education platform for courses, exams, lectures, and video calls.
 - [Watani](https://apps.apple.com/eg/app/%D9%88%D8%B7%D9%86%D9%8A-watani/id6756347265) — a digital platform supporting the aquaculture sector.
