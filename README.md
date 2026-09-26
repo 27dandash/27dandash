@@ -66,22 +66,22 @@
   </picture>
 </p>
 
-- **FamilySufrah** — Arabic-first food marketplace and delivery platform across customer, provider, and delegate apps.<br>
+- **FamilySufrah** (<span lang="ar" dir="rtl">سُفرة</span>) — Arabic-first food marketplace and delivery platform across customer, provider, and delegate apps.<br>
   `Customer` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.sofra.client) · `Provider` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.sofra.provider) · `Delegate` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.sofra.delivery) / [App Store](https://apps.apple.com/us/app/familysufrah-delegate/id6787687904)
 
-- **Mawahib AlSaudi** — talent discovery and academy platform with independently branded talent and academy apps.<br>
+- **Mawahib AlSaudi** (<span lang="ar" dir="rtl">مواهب السعودية</span>) — talent discovery and academy platform with independently branded talent and academy apps.<br>
   `Talent` [App Store](https://apps.apple.com/eg/app/%D9%85%D9%88%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87-%D9%85%D9%88%D9%87%D8%A8%D9%87/id6776690404) · `Academy` [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.MawahibAlSaudi.provider) / [App Store](https://apps.apple.com/eg/app/%D9%85%D9%88%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87-%D8%A7%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D9%87/id6776688772)
 
-- **Servena** — sports platform for field booking, matches, training sessions, payments, chat, and rankings.<br>
+- **Servena** (<span lang="ar" dir="rtl">سيرفنا</span>) — sports platform for field booking, matches, training sessions, payments, chat, and rankings.<br>
   [Google Play](https://play.google.com/store/apps/details?id=com.flutter.cs.servenaPrpject) · [App Store](https://apps.apple.com/us/app/servena-%D8%B3%D9%8A%D8%B1%D9%81%D9%86%D8%A7/id6766030728)
 
-- **Basiet Educational** — learning platform for courses, lessons, exams, certificates, and digital study materials.<br>
+- **Basiet Educational** (<span lang="ar" dir="rtl">بسيط التعليمية</span>) — learning platform for courses, lessons, exams, certificates, and digital study materials.<br>
   [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.basiet) · [App Store](https://apps.apple.com/eg/app/%D8%A8%D8%B3%D9%8A%D8%B7-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/id6761849250)
 
-- **2days** — map-based peer-to-peer rental marketplace with listings, payments, and agreements.<br>
+- **2days** (<span lang="ar" dir="rtl">يومين</span>) — map-based peer-to-peer rental marketplace with listings, payments, and agreements.<br>
   [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.twoDays) · [App Store](https://apps.apple.com/us/app/2days-%D9%8A%D9%88%D9%85%D9%8A%D9%86/id6740265856)
 
-- **ATHATHE** — technology-driven furniture marketplace for discovery, catalog, and purchase journeys.<br>
+- **ATHATHE** (<span lang="ar" dir="rtl">أثاثي</span>) — technology-driven furniture marketplace for discovery, catalog, and purchase journeys.<br>
   [Google Play](https://play.google.com/store/apps/details?id=com.aait.flutter.athathy) · [App Store](https://apps.apple.com/us/app/%D8%A7%D8%AB%D8%A7%D8%AB%D9%8A/id6677037034)
 
 ### Earlier shipped products
