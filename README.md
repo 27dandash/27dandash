@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://27dandash.github.io"><img src="https://img.shields.io/badge/View_Portfolio-Selected_Work_%26_Case_Studies-14532D?style=for-the-badge&logo=flutter&logoColor=white" alt="View Portfolio — selected production work and Flutter case studies"></a>
+  <a href="https://27dandash.github.io/assets/AbdelRahman_Ayman_Dandash_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-Professional_Profile-334155?style=for-the-badge&logo=readme&logoColor=white" alt="Download Abdelrahman Dandash CV"></a>
   <a href="https://www.linkedin.com/in/27dandash/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:27dandash@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -36,6 +37,16 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111827" alt="Android">
   <img src="https://img.shields.io/badge/iOS-111827?style=flat-square&logo=apple&logoColor=white" alt="iOS">
 </p>
+
+## Professional journey
+
+| Period | Role | Company | Focus |
+| --- | --- | --- | --- |
+| Mar 2025 – Present | Flutter Developer · Full-time | ICRAFTSA | Multi-brand production apps, Firebase, real-time features, payments, localization, and store delivery |
+| Mar 2023 – Mar 2025 | Flutter Developer · Full-time | AAIT | Clean Architecture, BLoC/Cubit, REST integrations, reusable UI, and Android/iOS releases |
+| Jul 2022 – Sep 2022 | Flutter Developer · Part-time | Algoriza | Legacy modernization, production debugging, caching, and API performance |
+| Sep 2021 – Mar 2022 | Flutter Developer | Techunique | Responsive Flutter interfaces, reusable components, and scalable state management |
+| Mar 2020 – Jul 2020 | Flutter Developer · Part-time | Artronix | Firebase, real-time data, notifications, maps, and payments |
 
 ## Featured repositories
 
@@ -81,6 +92,11 @@
 - [MediaCoThink](https://play.google.com/store/apps/details?id=com.aait.mediacothinkUser) — an education platform for courses, exams, lectures, and video calls.
 - [Watani](https://apps.apple.com/eg/app/%D9%88%D8%B7%D9%86%D9%8A-watani/id6756347265) — a digital platform supporting the aquaculture sector.
 - [Airtah](https://apps.apple.com/eg/app/%D8%A7%D8%B1%D8%AA%D8%AD/id6741735966) — an event-services marketplace for special occasions.
+
+## Education & languages
+
+- **Bachelor of Computer Science** — Higher Technological Institute, HTI · 2019–2022.
+- **Languages:** Arabic and English, with production experience delivering Arabic/English localization and RTL/LTR interfaces.
 
 ---
 
